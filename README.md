@@ -1,2 +1,7 @@
 # pokemonbot
-Who's that Pokémon? Discord Game Bot
+Who's that Pokémon? A discord game bot
+
+# how it works
+
+
+
